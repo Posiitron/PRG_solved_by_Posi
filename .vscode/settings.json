@@ -7,6 +7,7 @@
         "utils.h": "c",
         "messages.h": "c",
         "prg_io_nonblock.h": "c",
-        "string.h": "c"
+        "string.h": "c",
+        "colors.h": "c"
     }
 }

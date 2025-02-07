@@ -5,6 +5,7 @@
  * CTU, course B3B36PRG, thanks to Prof. Ing. Jan Faigl, Ph.D. Source:
  * https://cw.fel.cvut.cz/wiki/courses/b3b36prg/resources/prgsem
  */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
