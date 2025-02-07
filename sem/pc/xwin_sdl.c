@@ -331,7 +331,7 @@ int xwin_init(int w, int h)
     // Render multiple pieces of text
     render_text("Welcome to my PRG Semester Project!", w / 5,
                 (h - 100) / 2 - 30, font, textColor);
-    render_text("Developed by Amir Akrami", (int)(w / 3.5), (h - 100) / 2 + 10,
+    render_text("Developed by Posiitron", (int)(w / 3.5), (h - 100) / 2 + 10,
                 font, textColor);
 
     render_text("Credits to Prof. Ing. Jan Faigl, Ph.D.", (int)(w / 4.3),
