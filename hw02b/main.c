@@ -1,5 +1,5 @@
 /*
- * Author: Amir Akrami
+ * Author: Posiitron
  * inspired by:
  * https://www.geeksforgeeks.org/sieve-of-eratosthenes/
  * https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
