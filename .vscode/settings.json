@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "computation.h": "c",
+        "stdbool.h": "c",
+        "event_queue.h": "c",
+        "stdio.h": "c",
+        "utils.h": "c",
+        "messages.h": "c",
+        "prg_io_nonblock.h": "c",
+        "string.h": "c"
+    }
+}

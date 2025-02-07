@@ -1,5 +1,5 @@
 /*
- * Author Amir Akrami
+ * Author Posiitron
  * Author: Prof. Ing. Jan Faigl, Ph.D.
  * Info: This project was inspired by the coding video tutorials provided by
  * CTU, course B3B36PRG, thanks to Prof. Ing. Jan Faigl, Ph.D. Source:
